@@ -1,0 +1,12 @@
+Order ID: A001
+Product: 耳机
+Quantity: 2
+
+Order ID: A002
+Product: 键盘
+Quantity: 1
+
+Order ID: A003
+Product: 电脑
+Quantity: 1
+
